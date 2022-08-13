@@ -1,2 +1,2 @@
 # PengalamanBelajar
-Pengalaman belajar membuat dokumentasi 0%
+Pengalaman belajar membuat dokumentasi 10%
