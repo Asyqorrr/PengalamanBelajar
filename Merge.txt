@@ -1,6 +1,4 @@
 TOLONG MERGE FILE INI
 
+test ini hanyalah main
 
-
-hadeh kenapa ya bisa begini 
-apakah memang begini
